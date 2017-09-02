@@ -1,3 +1,3 @@
 # WeatherApp
 
-App Broadcasting Weather information using **OpenWeather api**
+An App that Broadcasts Weather information using **OpenWeather api**
